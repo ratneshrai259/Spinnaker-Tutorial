@@ -1,2 +1,2 @@
-# OpsMx-Spinnaker-Tutorial
-OpsMx-Spinnaker
+# -Spinnaker-Tutorial
+Spinnaker
